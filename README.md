@@ -8,3 +8,4 @@ if you want another minigame then shoot me an email at prabhav.rallabhandi194@gm
 to use, simply download the html file and double click to run in browser!
 
 have fun!
+ (code refinied using ai)
